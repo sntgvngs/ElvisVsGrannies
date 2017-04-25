@@ -45,3 +45,31 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+# =========================
+Elvis vs. Grannies/[Ll]ibrary/
+Elvis vs. Grannies/[Tt]emp/
+Elvis vs. Grannies/[Oo]bj/
+Elvis vs. Grannies/[Bb]uild/
+Elvis vs. Grannies/[Bb]uilds/
+Elvis vs. Grannies/Assets/AssetStoreTools*
+Elvis vs. Grannies/ExportedObj/
+Elvis vs. Grannies/sysinfo.txt
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Builds
+*.apk
+*.unitypackage
