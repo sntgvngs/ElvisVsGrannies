@@ -11,7 +11,7 @@ public class ElvisScript : MonoBehaviour {
     private Transform myTransform;
     Vector3 lastPos;
     float dist;
-    float threshold = 0;
+    float threshold = 0.001f;
 	// Use this for initialization
 	void Start () {
         targetTransform = target.GetComponent<Transform>();
