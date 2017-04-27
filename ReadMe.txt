@@ -28,5 +28,8 @@ B. Additional elements
 ------------------------------------------------------------------------
 C. Known issues
 
+- When the game is paused Elvis may sometimes keep on rotating slightly.
+- Restarting the game messes with the lighting when running inside the editor.
+
 ------------------------------------------------------------------------
 D. External resources
